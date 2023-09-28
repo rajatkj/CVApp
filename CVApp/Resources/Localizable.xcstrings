@@ -1,0 +1,41 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " - " : {
+
+    },
+    "B.Tech. Computer Science And Engineering" : {
+
+    },
+    "Header title" : {
+
+    },
+    "Hello, world!" : {
+
+    },
+    "iOS Developer" : {
+
+    },
+    "Rajat Kumar" : {
+
+    },
+    "summary" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello, I'm Rajat - a Senior iOS Developer with 8 years of experience and skills in iOS Development, Swift, and SwiftUI.\n\nI hold a Bachelor of Technology in Computer Science and Programming and enjoy hobbies such as Squash, Guitar, and Console Gaming.\n\nWith extensive experience at hedgehog lab and SenecaGlobal, I've led iOS app development, managed CI/CD pipelines, and collaborated to enhance user experiences.\n\nI bring expertise in Swift, SwiftUI, and UIKit, along with a strong grasp of Git Version Control and CI/CD processes.\n\nCurrently, I'm focused on furthering my skills in Django REST Framework and Python. I'm open to collaboration and eager to contribute to innovative projects."
+          }
+        }
+      }
+    },
+    "Test" : {
+
+    },
+    "Work Experience" : {
+
+    }
+  },
+  "version" : "1.0"
+}
